@@ -4,9 +4,7 @@
 
 # System
 - User
-  - Data
-  
-  ||User ID|Username|成就|Contact|關注朋友|
+  |Data|User ID|Username|成就|Contact|關注朋友|
   |:-|:-|:-|:-|:-|:-|
   |**Data type**||mail|
   
