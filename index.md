@@ -1,7 +1,5 @@
 English | [中文](/)
 
-> Welcome
-
 # Members
 
 # System
