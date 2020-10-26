@@ -35,7 +35,9 @@
           </div>
           <span class="blc"></span><span class="trc"></span>
         </div>
-        <blockquote>site.data.Quote</blockquote>
+        {% fir in in site.data.Quote %}
+        <blockquote>{{i}}</blockquote>
+        {% end for %}
         <article class="markdown-body">
           {{ content }}
         </article>
