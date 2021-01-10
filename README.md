@@ -9,8 +9,9 @@
     |
     
 **Source**
-靈擺
 
+靈擺
+https://tw.uukanshu.com/b/74534/
 ***
 
 ![](Content/Setting/序列.md)
